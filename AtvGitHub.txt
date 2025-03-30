@@ -6,3 +6,4 @@ Estou na branch atv3 e vou alterar o arquivo AtvGitHub.txt
 Estou na branch dev e vou alterar o arquivo .txt
 
 
+"Nova linha de teste"   # Adicionando uma linha ao arquivo
