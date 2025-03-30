@@ -1,3 +1,9 @@
 Criando primeiro commit no arquivo AtvGitHub
+
+Criando a branch dev no arquivo AtvGitHub	
+Estou na branch 1 e vou alterar o arquivo.txt, após isso criei a branch atv3.
+Estou na branch atv2 e editei o arquivo na linha 4.
+
 Criando a branch dev no arquivo AtvGitHub
 Estou na branch 1 e vou alterar o arquivo .txt, após isso criei a branch atv3
+
